@@ -5,29 +5,15 @@ export default  styles = StyleSheet.create({
       flex: 1,
       backgroundColor: 'white'
     },
-    commonCss: {
-      flex: 1,
-      alignItems: 'center',
-      justifyContent: 'center'
-    }, 
-    header: {
-      flex: 1,
-      backgroundColor: '#00BFFF'
-    },
     mainContainer: {
       flex: 6,
-      flexDirection: 'row'
-    },
-    realMainContainer: {
-      flex: 5,
-      flexDirection: 'column'
     },
     chat: {
       flex: 1
     },
-    menu: {
-      flex: 2,
-      backgroundColor: '#90EE90'
+    buttons: {
+      borderBottomColor: 'black',
+      borderColor: '#d6d7da',
     },
     input: {
       flex: 0,
