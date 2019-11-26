@@ -13,7 +13,7 @@ const Project= createStackNavigator({
   }
 },
 {
-    initialRouteName: 'Home'
+    initialRouteName: 'Another'
 })
 
 export default createAppContainer(Project)
